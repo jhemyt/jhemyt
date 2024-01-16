@@ -6,7 +6,7 @@
 
 
 # 💀 Oi, Meu nome é Matheus seja bem vindo ao meu perfil! 
- Aqui ainda esta um pouco vazio, mas logo esta bem preenchido com muita coisa! Eu entrei no caminho da programação agora então é dificil colar muita coisa.
+ Aqui ainda esta um pouco vazio, mas logo estará bem preenchido com muita coisa! Eu entrei no caminho da programação agora então é dificil colocar muita coisa.
 
 # 💻 Skills 
    ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
